@@ -1,6 +1,6 @@
 # 👋 Hello everyone!
 
-My name is German, I'm 23 years old from Ufa, [![Russia](https://zenonline.ru/admin/files/adv_catalog/12/icon/russia-468__1_.png)]().
+My name is German, I'm 23 years old from Ufa, 🇷🇺.
 
 I am a semi-full stack developer with knowledge in front-end, back-end, machine learning, and DevOps engineering.
 
@@ -34,4 +34,4 @@ I also actively practice Python. 🐍
 - [My graduate work at the university](https://github.com/smirkinhd/TuneTellor) - Recommendation system for Spotify
 - [Sound Plugin for Counter Strike 2](https://github.com/smirkinhd/CS_SoundPlugin) - Nothing to say anymore
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=smirkinhd&color=green)
