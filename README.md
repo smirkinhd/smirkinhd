@@ -20,8 +20,7 @@ I also actively practice Python. 🐍
 [![VK](https://img.shields.io/badge/VK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smirkinhd&show_icons=true&theme=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smirkinhd&layout=compact&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smirkinhd)
 
 ## 🛠 Skills
 - C#, Python
