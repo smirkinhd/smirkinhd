@@ -33,5 +33,6 @@ I also actively practice Python. 🐍
 - [Project From Hackathon](https://github.com/smirkinhd/Aquaf1neMTSHack) - A mobile assistant for processing maintenance requests for residential buildings
 - [My graduate work at the university](https://github.com/smirkinhd/TuneTellor) - Recommendation system for Spotify
 - [Sound Plugin for Counter Strike 2](https://github.com/smirkinhd/CS_SoundPlugin) - Nothing to say anymore
+- [EAIS Tariff System](https://github.com/smirkinhd/eais-tariff-system) - Unified Analytical Information System (Frontend Development)
 
 ![Profile views](https://komarev.com/ghpvc/?username=smirkinhd&color=green)
